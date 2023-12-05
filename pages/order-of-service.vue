@@ -5,10 +5,10 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Order of service</h1>
-      <p><em>Thursday 28th January 2021</em> Due to COVID-19 the services are restricted in the number of people allowed. The plan is to live stream the services so everyone who wants to attend will be able to do so virtually. We will also hold a celebration of Lyns life later in the year when COVID-19 restrictions are relaxed.</p>
-      <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
-      <h2>Church Service <span>10:30am</span></h2>
+      <h1 class="title">Facellimiento Alicia Estevez  - Diciembre 3 , 2023</h1>
+      <p><em>Queridos amigos y familiares,</em>Con sentimientos encontrados, les comparto la noticia del fallecimiento de nuestra amada abuela, Alicia Estevez, quien nos dejó ayer a la destacable edad de 101 años. La abuela Alicia no solo fue una matriarca en nuestra familia, sino un faro de sabiduría y amor. Su vida fue un testimonio de resiliencia, y deja atrás un legado de compasión, fuerza y un compromiso inquebrantable con la familia. A lo largo de su larga y plena vida, la abuela Alicia valoró la importancia de la paz y la reconciliación dentro de nuestra familia. En sus últimos momentos, su mensaje principal fue una súplica por la unidad y el amor entre nosotros. Honremos su memoria abrazando estos valores y fortaleciendo los lazos que ella apreciaba tanto. Mientras celebramos su vida notable, recordemos la alegría que nos brindó, las lecciones que compartió y el amor que nos prodigó a cada uno de nosotros. Que su espíritu continúe inspirándonos a llevar vidas llenas de amabilidad, comprensión y, lo más importante, un profundo amor mutuo</p>
+      <p class="highlight">Únanse a nosotros para conmemorar la vida de Alicia Estevez, una mujer notable que tocó nuestros corazones y almas. Con condolencias sinceras, Familia Estala Velasco</p>
+      <h2>Misa en su Nombre, pendinte por definir <span>00:00am</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 10:30am at Church Address</ListItem>
         <ListItem>Entrance music: And Can It Be</ListItem>
